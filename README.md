@@ -35,17 +35,14 @@ For an **interactive experience**, you will need to set up the following locally
 
 ### Clone
 
-- Clone this repo to your local machine using `git clone git@bitbucket.org:zrizvi93/analysis-notebooks.git`
+- Clone this repo to your local machine using `git clone https://github.com/zrizvi93/analysis-notebooks.git`
 
 ### Setup
 
-- For a more interactive experience, please check out this Confluence to set up Jupyter Lab (available for MacOS): 
-
-[Jupyter Lab Env Setup on MacOS](https://hello.atlassian.net/wiki/spaces/~822478209/pages/651393671/Local+Jupyter+Lab+Env+Setup+on+Mac+OS)
+- For a more interactive experience, please set up Jupyter Lab (instructions coming soon): 
 
 
-
-Jupyter Lab view (using a publicly available dataset):
+Jupyter Lab view:
 
 ![alt text](https://i.ibb.co/NnbpqDz/Screen-Shot-2020-08-08-at-7-57-29-PM.png "Jupyter Lab")
 
