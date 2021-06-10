@@ -29,7 +29,7 @@ For an **interactive experience**, you will need to set up the following locally
 
 - Jupyter Lab
 - python3, dotnet-interactive language kernels 
-- sql server (dockerized if using MacOS) & copy of internal database for Jira Align.
+- sql server (dockerized if using MacOS) & database.
 
 
 
